@@ -1,0 +1,18 @@
+.main{
+    width: 400px;
+    height: 300px;
+    color: #fff;
+}
+.question label{
+    font-size: 20px;
+}
+.question input{
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.btn_position{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+}
